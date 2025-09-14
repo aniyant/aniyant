@@ -1,7 +1,7 @@
 # 🌟 Full-Stack Software Engineer | Sunny Kumar  
 
 Hi, I’m **Sunny Kumar** 👋  
-A **Full-Stack Software Engineer** passionate about building **scalable, secure, and cloud-native applications**.  
+A **Full Stack Software Engineer** passionate about building **scalable, secure, and cloud-native applications**.  
 Currently working at **Pococare**, building healthcare platforms with **React, NestJS, Docker, and Kubernetes**.  
 
 ---
@@ -37,8 +37,8 @@ Currently working at **Pococare**, building healthcare platforms with **React, N
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunnykumar&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunnykumar&theme=tokyonight" alt="Streak stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aniyant&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniyant&theme=tokyonight" alt="Streak stats" height="150"/>
 </p>
 
 ---
