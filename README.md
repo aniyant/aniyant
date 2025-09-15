@@ -1,59 +1,89 @@
-# 🌟 Full-Stack Software Engineer | Sunny Kumar  
+# 👋 Hi, I'm Sunny Kumar  
 
-Hi, I’m **Sunny Kumar** 👋  
-A **Full Stack Software Engineer** passionate about building **scalable, secure, and cloud-native applications**.  
-Currently working at **Pococare**, building healthcare platforms with **React, NestJS, Docker, and Kubernetes**.  
+🚀 **Software Development Engineer (SDE-1) @ Pococare**  
+💻 Full-Stack Engineer | Cloud & DevOps Enthusiast | Problem Solver  
+
+![Profile Views](https://komarev.com/ghpvc/?username=aniyant&style=flat-square&color=blue)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SunnyKumar-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunny-kumar001/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub_Pages-black?logo=github&logoColor=white)](https://github.com/aniyant) 
+[![Mail](https://img.shields.io/badge/Email-kumarsunny30066%40gmail.com-red?logo=gmail&logoColor=white)](mailto:kumarsunny30066@gmail.com)  
 
 ---
 
-## 🚀 Tech Stack  
+## 🛠️ Tech Stack
 
-💻 **Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+**Languages & Databases:**  
+`JavaScript` • `TypeScript` • `Python` • `MongoDB` • `SQL` • `Redis` • `DSA`  
 
-⚙️ **Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+**Frameworks & Libraries:**  
+`Node.js` • `NestJS` • `Express.js` • `React.js` • `Microservices` • `REST APIs` • `HTML` • `CSS` • `Chakra UI` • `Tailwind CSS`  
 
-☁️ **DevOps & Cloud**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+**Cloud & DevOps:**  
+`Azure` • `Docker` • `Kubernetes` • `Nginx` • `GitHub CI/CD` • `Azure Storage` • `Lens` • `SonarQube`  
 
-🛡️ **Monitoring & Security**  
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+**Developer Tools:**  
+`VS Code` • `Cursor` • `Postman` • `Git` • `GitHub` • `MongoDB Compass` • `Android Studio`  
+
+---
+
+## 💼 Work Experience  
+
+### 🚑 Software Development Engineer (SDE-1) — [Pococare](https://pococare.com)  
+*Bengaluru, India | Aug 2024 – Present*  
+
+- ⚡ Built and optimized **ambulance booking**, **rate card systems**, and **subscription pages** with `React.js`, `NestJS`, and `TypeScript`, improving UX by **10%**.  
+- 💳 Integrated **Razorpay payments** with `webhooks`, `order mapping`, and `IVR call flows`, improving response time by **30%**.  
+- 📲 Designed high-scale **WhatsApp (Freshchat)** & **Email notification system** for **100K+ users** with retries & fallbacks, reducing failures by **35%**.  
+- ⚙️ Automated deployments with **GitHub Actions + Docker + AKS**, cutting deployment time by **50%**.  
+- 🔐 Secured infra with `Nginx Ingress`, `Redis`, `cert-manager`, and `private Azure endpoints`, reducing cloud cost by **20%**.  
+- 🛡️ Led **VAPT audits** and integrated **SonarQube**, reducing bugs by **35%**.  
+
+---
+
+## 📂 Projects  
+
+### 🏋️ Gym Reservation Bot  
+**Tech:** Python, Selenium, Google Cloud  
+- Automated gym slot booking using Selenium + Cron jobs on a GCP VM.  
+
+### 🎟️ Ticket Price Calculator App  
+**Tech:** Java, Android Studio  
+- Android app to calculate ticket prices with interactive UI.  
+
+### 🏦 Transaction Management GUI  
+**Tech:** Java, JavaFX  
+- Banking system simulator with GUI supporting deposits, withdrawals & OOP-based account types.  
+
+---
+
+## 🎓 Education  
+
+**B.Sc. Computer Science** — State University (2017 – 2021)  
+
+---
+
+## 🏅 Certifications  
+
+- ✅ VAPT Security Audit & Remediation  
+- ✅ CI/CD & Cloud Infrastructure (Azure, Docker, Kubernetes)  
+- ✅ Code Quality & SonarQube Integration  
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniyant&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniyant&theme=tokyonight" alt="Streak stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aniyant&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aniyant&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
 
-## 📌 Featured Projects  
+## 🌐 Let's Connect!  
 
-- 🚑 **Ambulance Request System** – Patient-to-hospital logistics using React + NestJS  
-- 💳 **PocoOrders Service** – Payment/order microservice in NestJS with MongoDB  
-- 📊 **Observability Stack** – Prometheus, Loki & Grafana on Kubernetes  
-- 🛡️ **Secure CI/CD Pipelines** – GitHub → Azure with SonarQube + Docker + Kubernetes  
+📧 [kumarsunny30066@gmail.com](mailto:kumarsunny30066@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sunny-kumar001/)  
+💻 [GitHub](https://github.com/aniyant)  
 
 ---
-
-## 📫 Let’s Connect  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)  
+✨ _"Building scalable apps, one commit at a time."_ ✨
