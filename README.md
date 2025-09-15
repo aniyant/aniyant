@@ -34,11 +34,24 @@ I design and build scalable applications with a focus on backend systems, distri
 
 ---
 
+## 🚀 Notable Projects  
+
+- **EventPulse** – Platform for event hosting, RSVPs, live feedback & analytics. *(Next.js, NestJS, PostgreSQL, AWS EKS)*  
+- **API Beneficiary Service** – Scalable microservice for handling healthcare beneficiary data with **NestJS + MongoDB**.  
+- **Self-hosted Observability Stack** – Local PLG (Prometheus, Loki, Grafana) setup on Kubernetes for monitoring & log aggregation.  
+- **PocoOrders Service** – Payment/order microservice with **Stripe integration**, dynamic DTOs & conditional validations.  
+
+---
+
 ## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" height="165"/>
+</p>  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak"/>
 </p>  
 
 ---
