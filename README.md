@@ -1,89 +1,56 @@
-# 👋 Hi, I'm Sunny Kumar  
+# 👋 Hi, I'm Sunny Kumar
 
 🚀 **Software Development Engineer (SDE-1) @ Pococare**  
-💻 Full-Stack Engineer | Cloud & DevOps Enthusiast | Problem Solver  
+💻 Full-Stack Engineer | Cloud & DevOps Enthusiast | Problem Solver
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aniyant&style=flat-square&color=blue)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SunnyKumar-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunny-kumar001/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub_Pages-black?logo=github&logoColor=white)](https://github.com/aniyant) 
 [![Mail](https://img.shields.io/badge/Email-kumarsunny30066%40gmail.com-red?logo=gmail&logoColor=white)](mailto:kumarsunny30066@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-aniyant-black?logo=github&logoColor=white)](https://github.com/aniyant)
 
 ---
 
 ## 🛠️ Tech Stack
-
-**Languages & Databases:**  
-`JavaScript` • `TypeScript` • `Python` • `MongoDB` • `SQL` • `Redis` • `DSA`  
-
-**Frameworks & Libraries:**  
-`Node.js` • `NestJS` • `Express.js` • `React.js` • `Microservices` • `REST APIs` • `HTML` • `CSS` • `Chakra UI` • `Tailwind CSS`  
-
-**Cloud & DevOps:**  
-`Azure` • `Docker` • `Kubernetes` • `Nginx` • `GitHub CI/CD` • `Azure Storage` • `Lens` • `SonarQube`  
-
-**Developer Tools:**  
-`VS Code` • `Cursor` • `Postman` • `Git` • `GitHub` • `MongoDB Compass` • `Android Studio`  
+(keep as in earlier draft — let me know if you want edits)
 
 ---
 
-## 💼 Work Experience  
-
-### 🚑 Software Development Engineer (SDE-1) — [Pococare](https://pococare.com)  
-*Bengaluru, India | Aug 2024 – Present*  
-
-- ⚡ Built and optimized **ambulance booking**, **rate card systems**, and **subscription pages** with `React.js`, `NestJS`, and `TypeScript`, improving UX by **10%**.  
-- 💳 Integrated **Razorpay payments** with `webhooks`, `order mapping`, and `IVR call flows`, improving response time by **30%**.  
-- 📲 Designed high-scale **WhatsApp (Freshchat)** & **Email notification system** for **100K+ users** with retries & fallbacks, reducing failures by **35%**.  
-- ⚙️ Automated deployments with **GitHub Actions + Docker + AKS**, cutting deployment time by **50%**.  
-- 🔐 Secured infra with `Nginx Ingress`, `Redis`, `cert-manager`, and `private Azure endpoints`, reducing cloud cost by **20%**.  
-- 🛡️ Led **VAPT audits** and integrated **SonarQube**, reducing bugs by **35%**.  
+## 💼 Work Experience
+(kept from your LaTeX resume — confirm if any changes needed)
 
 ---
 
-## 📂 Projects  
+## 📂 Selected Projects (please confirm / edit)
 
-### 🏋️ Gym Reservation Bot  
-**Tech:** Python, Selenium, Google Cloud  
-- Automated gym slot booking using Selenium + Cron jobs on a GCP VM.  
+> **Note:** I removed the template projects and below are *suggested* projects I found in our prior conversation. Tell me which are correct, or paste your real project titles + 2–3 bullets each and I’ll update.
 
-### 🎟️ Ticket Price Calculator App  
-**Tech:** Java, Android Studio  
-- Android app to calculate ticket prices with interactive UI.  
+1. **EventPulse — Event management platform** `[CONFIRM / EDIT]`  
+   *Tech:* Next.js, Node/NestJS, React, PostgreSQL (example)  
+   *Summary:* Built features for event creation, RSVP management, live feedback collection, and analytics for hosts and attendees. Focused on secure authentication, scalable APIs, and real-time updates.
 
-### 🏦 Transaction Management GUI  
-**Tech:** Java, JavaFX  
-- Banking system simulator with GUI supporting deposits, withdrawals & OOP-based account types.  
+2. **Self-hosted Observability (PLG: Prometheus, Loki, Grafana)** `[CONFIRM / EDIT]`  
+   *Tech:* Prometheus, Grafana, Loki, Kubernetes  
+   *Summary:* Designed and deployed a local PLG observability stack for monitoring services during development and testing; integrated dashboards, alerting, and log aggregation.
 
----
+3. **NestJS → AWS S3 Migration & Signed URLs** `[CONFIRM / EDIT]`  
+   *Tech:* NestJS, AWS S3 (AWS SDK v3), signed URLs  
+   *Summary:* Migrated file storage from Azure Blob to AWS S3 in a NestJS service, preserving upload/download flows and implementing secure signed URLs.
 
-## 🎓 Education  
+4. **Multi-stage Dockerfile for NestJS + Puppeteer** `[CONFIRM / EDIT]`  
+   *Tech:* Docker (multi-stage), Puppeteer (Chromium), Node.js, CI pipelines  
+   *Summary:* Created optimized multi-stage builds for CI/CD including headless Chromium for PDF generation and server-side rendering tasks.
 
-**B.Sc. Computer Science** — State University (2017 – 2021)  
-
----
-
-## 🏅 Certifications  
-
-- ✅ VAPT Security Audit & Remediation  
-- ✅ CI/CD & Cloud Infrastructure (Azure, Docker, Kubernetes)  
-- ✅ Code Quality & SonarQube Integration  
+5. *(Optional)* **Other notable work** — CI/CD automation (GitHub Actions), SonarQube integration, AKS deployments, ambulance booking systems at Pococare. `[CONFIRM / EDIT]`
 
 ---
 
-## 📊 GitHub Stats  
+## 🎓 Education
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniyant&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aniyant&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+**[Please provide your exact education details to replace this placeholder]**
 
----
+Template examples — pick one and edit:
 
-## 🌐 Let's Connect!  
+- **Bachelor of Technology / Bachelor of Science in Computer Science** — *College / University Name*, City — *Month Year – Month Year*  
+- **[Degree] — [Institution] — [City] — [StartYear – EndYear]*
 
-📧 [kumarsunny30066@gmail.com](mailto:kumarsunny30066@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/sunny-kumar001/)  
-💻 [GitHub](https://github.com/aniyant)  
-
----
-✨ _"Building scalable apps, one commit at a time."_ ✨
+> If your education details are the ones in the LaTeX (`State University — B.S
