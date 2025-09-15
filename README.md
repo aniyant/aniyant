@@ -1,56 +1,45 @@
-# 👋 Hi, I'm Sunny Kumar
+# 👋 Hi, I'm Sunny Kumar  
 
-🚀 **Software Development Engineer (SDE-1) @ Pococare**  
-💻 Full-Stack Engineer | Cloud & DevOps Enthusiast | Problem Solver
-
-![Profile Views](https://komarev.com/ghpvc/?username=aniyant&style=flat-square&color=blue)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SunnyKumar-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunny-kumar001/) 
-[![Mail](https://img.shields.io/badge/Email-kumarsunny30066%40gmail.com-red?logo=gmail&logoColor=white)](mailto:kumarsunny30066@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-aniyant-black?logo=github&logoColor=white)](https://github.com/aniyant)
+🚀 **Fullstack Software Engineer** (SDE-1 at Pococare)  
+Building reliable, scalable, and secure systems across **frontend, backend, cloud, and DevOps**.  
 
 ---
 
-## 🛠️ Tech Stack
-(keep as in earlier draft — let me know if you want edits)
+## 🔧 Tech Stack
+- **Languages**: JavaScript, TypeScript, Python, SQL, MongoDB, Redis  
+- **Frameworks & Libraries**: React.js, Next.js, Node.js, NestJS, Express.js  
+- **Cloud & DevOps**: AWS (S3, EKS, IAM), Azure (AKS, Storage), Docker, Kubernetes, Nginx, GitHub Actions CI/CD, SonarQube  
+- **Monitoring & Observability**: Prometheus, Grafana, Loki  
+- **UI/UX**: Chakra UI, Tailwind CSS  
+- **Tools**: VS Code, Postman, Git, GitHub, Cursor, MongoDB Compass  
 
 ---
 
-## 💼 Work Experience
-(kept from your LaTeX resume — confirm if any changes needed)
+## 💼 Work Experience  
+### Software Development Engineer (SDE-1) @ Pococare (Aug 2024 – Present)  
+- Developed **ambulance booking systems**, **rate cards**, and **subscription pages** with React.js + NestJS, boosting user experience by **10%**.  
+- Integrated **Razorpay payments** with webhooks, failure recovery & order mapping; built **emergency call routing** with Tata-Tele APIs & IVR, reducing response time by **30%**.  
+- Migrated infrastructure from **Azure → AWS**:  
+  - Azure: AKS, cert-manager, Nginx ingress, Redis, MongoDB, private storage endpoints.  
+  - AWS: S3 (signed URLs), EKS, IAM-based security.  
+  - Reduced costs by **40%** and improved reliability.  
+- Built **high-volume notifications** (WhatsApp via Freshchat, emails) with retries, fallbacks & delivery tracking, reducing failures by **35%**.  
+- Automated **CI/CD pipelines** with GitHub Actions, Docker & Kubernetes, cutting deployment times by **50%**.  
+- Set up **observability stack** with Prometheus, Grafana & Loki → proactive alerting + optimized logging costs.  
+- Led **VAPT audits** & integrated SonarQube → improved code quality and reduced bugs by **35%**.  
 
 ---
 
-## 📂 Selected Projects (please confirm / edit)
-
-> **Note:** I removed the template projects and below are *suggested* projects I found in our prior conversation. Tell me which are correct, or paste your real project titles + 2–3 bullets each and I’ll update.
-
-1. **EventPulse — Event management platform** `[CONFIRM / EDIT]`  
-   *Tech:* Next.js, Node/NestJS, React, PostgreSQL (example)  
-   *Summary:* Built features for event creation, RSVP management, live feedback collection, and analytics for hosts and attendees. Focused on secure authentication, scalable APIs, and real-time updates.
-
-2. **Self-hosted Observability (PLG: Prometheus, Loki, Grafana)** `[CONFIRM / EDIT]`  
-   *Tech:* Prometheus, Grafana, Loki, Kubernetes  
-   *Summary:* Designed and deployed a local PLG observability stack for monitoring services during development and testing; integrated dashboards, alerting, and log aggregation.
-
-3. **NestJS → AWS S3 Migration & Signed URLs** `[CONFIRM / EDIT]`  
-   *Tech:* NestJS, AWS S3 (AWS SDK v3), signed URLs  
-   *Summary:* Migrated file storage from Azure Blob to AWS S3 in a NestJS service, preserving upload/download flows and implementing secure signed URLs.
-
-4. **Multi-stage Dockerfile for NestJS + Puppeteer** `[CONFIRM / EDIT]`  
-   *Tech:* Docker (multi-stage), Puppeteer (Chromium), Node.js, CI pipelines  
-   *Summary:* Created optimized multi-stage builds for CI/CD including headless Chromium for PDF generation and server-side rendering tasks.
-
-5. *(Optional)* **Other notable work** — CI/CD automation (GitHub Actions), SonarQube integration, AKS deployments, ambulance booking systems at Pococare. `[CONFIRM / EDIT]`
+## 🛠️ Featured Projects  
+- [**Online Code Editor**](https://github.com/aniyant/Judicial-JavaScript_038) – Full-stack IDE with multi-language support, syntax highlighting, Dockerized backend, and Render deployment.  
+- [**Estate X**](https://github.com/Adarsh-ch/Tencent-Titans_033) – Real estate platform with property listings, wishlist tracking, search, and analytics dashboard.  
 
 ---
 
-## 🎓 Education
+## 📫 Connect With Me
+- **LinkedIn**: [sunny-kumar001](https://www.linkedin.com/in/sunny-kumar001/)  
+- **GitHub**: [aniyant](https://github.com/aniyant)  
+- **Email**: kumarsunny30066@gmail.com  
 
-**[Please provide your exact education details to replace this placeholder]**
-
-Template examples — pick one and edit:
-
-- **Bachelor of Technology / Bachelor of Science in Computer Science** — *College / University Name*, City — *Month Year – Month Year*  
-- **[Degree] — [Institution] — [City] — [StartYear – EndYear]*
-
-> If your education details are the ones in the LaTeX (`State University — B.S
+---
+✨ Always exploring **scalable system design**, **cloud infrastructure**, and **fullstack product engineering**.
